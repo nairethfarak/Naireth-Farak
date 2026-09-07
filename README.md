@@ -34,5 +34,19 @@ Final-year Aerospace Engineering student at the University of Antioquia, interes
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
+## Featured Projects 
+
+### Electrodynamic Tether ADCS
+
+Development of an attitude and orbital control concept using electrodynamic tethers for spacecraft operating in Low Earth Orbit.
+
+### Space-Based ADS-B 
+Conceptual design of a space-based ADS-B system for aircraft monitoring over oceanic regions, including stakeholder identification, risk analysis, and system-level analysis.
+
+### Rocket Structural Analysis
+Development of a Python-based computational tool for aerodynamic load estimation and preliminary structural sizing of launch vehicle components.
+
+
+## Previous work
 
 
