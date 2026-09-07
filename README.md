@@ -49,11 +49,11 @@ Development of a Python-based computational tool for aerodynamic load estimation
 
 ## Previous work
 ### Astrodynamics
-Academic projects focused on **orbital mechanics, spacecraft dynamics, orbit propagation, and numerical simulation**, applying computational methods to analyze orbital trajectories.
+Academic projects focused on orbital mechanics, spacecraft dynamics, orbit propagation, and numerical simulation, applying computational methods to analyze orbital trajectories.
 
 ### Space Flight Dynamics
-Coursework and academic projects involving **spacecraft trajectory analysis, orbital dynamics, attitude and orbit dynamics, and numerical modeling of spacecraft motion**.
+Coursework and academic projects involving spacecraft trajectory analysis, orbital dynamics, attitude and orbit dynamics, and numerical modeling of spacecraft motion.
 
-These projects provided practical experience in **spacecraft dynamics, mathematical modeling, numerical simulation, and aerospace system analysis**.
+These projects provided practical experience in spacecraft dynamics, mathematical modeling, numerical simulation, and aerospace system analysis.
 
 
